@@ -107,7 +107,7 @@ function App() {
         
         {/* Logo */}
         <div>
-          <img width={150} src={logo} alt="Logo" />
+          <img width={180} src={logo} alt="Logo" />
         </div>
 
         <button 
